@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sajjan Pokhrel"
   avatar           : "profile.png"
-  bio              : "I am a graduate student at the University of British Columbia in Vancouver Canada. My research domain is renewable energy systems, climate change, energy economics, and energy policy"
+  bio              : "I am a graduate student at the University of British Columbia in Vancouver Canada. I am passionate about renewable energy systems, climate change, energy economics, and energy policy"
   location         : "Vancouver, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wXNjjusAAAAJ&hl=en"
-  email            :
+  email            : "sajjan.pokhrel@hotmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Sajjan-Pokhrel"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/sajjanpokhrel"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2852-3749"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
