@@ -1,6 +1,6 @@
 ---
 title: "Field-scale experimental and numerical analysis of a downhole coaxial heat exchanger for geothermal energy production"
-collection: publications
+collection: Peer Reviewed Journal Publications
 permalink: /science/article/abs/pii/S0960148121014956
 excerpt: 'This paper is about the experimental and computational analyses of a 500 m deep coaxial borehole heat exchanger system for geothermal power generation. This is a second second field test experiment on coaxial heat exchanger system for geothermal power generation application after 1991 in Hawaii.'
 date: 2021-10-13

@@ -1,6 +1,6 @@
 ---
 title: "Thermal performance evaluation of integrated solar-geothermal system; a semi-conjugate reduced order numerical model"
-collection: publications
+collection: Peer Reviewed Journal Publications
 permalink: /science/article/abs/pii/S0306261921010369
 excerpt: 
 date: 2021-08-27
