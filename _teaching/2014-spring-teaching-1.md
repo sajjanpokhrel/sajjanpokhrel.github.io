@@ -8,7 +8,7 @@ date: 2021-08-01
 location: "Vancouver, Canada"
 ---
 
-I served as a Teaching Assistant to professor Scott Dunbar for his course Modeling and Simulation. My responsibilities include instructing and assisting students in the laboratory, in addition to grading assignments and exams.[More details]
+I served as a Teaching Assistant to professor Scott Dunbar for his course Modeling and Simulation. My responsibilities include instructing and assisting students in the laboratory, in addition to grading assignments and exams.
 
 Course Content
 ======
