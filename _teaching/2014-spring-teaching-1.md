@@ -11,10 +11,13 @@ location: "Vancouver, Canada"
 I served as a Teaching Assistant to professor Scott Dunbar for his course Modeling and Simulation. My responsibilities include instructing and assisting students in the laboratory, in addition to grading assignments and exams.
 
 Course Content
+======
 Methods for determining the behaviour of large scale industrial systems and their application to the design and analysis of such systems.
 
 Software used
+======
 EXCEL (macro functions) & ExtendSim
 
 Class size
+======
 20
