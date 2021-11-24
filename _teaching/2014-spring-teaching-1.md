@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Asistant (MINE - 350) - Modeling and Simulation"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate/graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "The University of British Columbia, Department of Mining Engineering"
+date: 2021-08-01
+location: "Vancouver, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I served as a Teaching Assistant to professor Scott Dunbar for his course Modeling and Simulation. My responsibilities include instructing and assisting students in the laboratory, in addition to grading assignments and exams.
 
-Heading 1
-======
+Course Content
+Methods for determining the behaviour of large scale industrial systems and their application to the design and analysis of such systems.
 
-Heading 2
-======
+Software used
+EXCEL (macro functions) & ExtendSim
 
-Heading 3
-======
+Class size
+20
