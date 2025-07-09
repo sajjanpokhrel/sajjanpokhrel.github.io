@@ -7,4 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am Sajjan, a graduate student at the University of British Columbia, vancouver, in faculaty of applied sciences. I originally come from Nepal. I am passionate about the role of renewable and clean energy in climate change and global warmimg.
+Welcome to my webpage!
+
+I am Sajjan Pokhrel, a Postdoctoral Research Associate at Oak Ridge National Laboratory (ORNL). I am also serving as Vice President of the Oak Ridge Postdoctoral Association Executive Committee (ORPEX-25). I am passionate about energy systems, all the way from coal to fusion and everything in between. However, I work more on geothermal energy and its utilization in different applications for heating, cooling, and power generation.
