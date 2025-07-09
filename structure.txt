@@ -1,0 +1,394 @@
+Folder PATH listing for volume Windows
+Volume serial number is EE1A-042F
+C:.
+|   .gitignore
+|   CHANGELOG.md
+|   CONTRIBUTING.md
+|   Gemfile
+|   LICENSE
+|   package.json
+|   README.md
+|   structure.txt
+|   talkmap.ipynb
+|   talkmap.py
+|   _config.dev.yml
+|   _config.yml
+|   
++---assets
+|   +---css
+|   |       academicons.css
+|   |       academicons.min.css
+|   |       collapse.css
+|   |       main.scss
+|   |       
+|   +---fonts
+|   |       academicons.eot
+|   |       academicons.svg
+|   |       academicons.ttf
+|   |       academicons.woff
+|   |       fa-brands-400.eot
+|   |       fa-brands-400.svg
+|   |       fa-brands-400.ttf
+|   |       fa-brands-400.woff
+|   |       fa-brands-400.woff2
+|   |       fa-regular-400.eot
+|   |       fa-regular-400.svg
+|   |       fa-regular-400.ttf
+|   |       fa-regular-400.woff
+|   |       fa-regular-400.woff2
+|   |       fa-solid-900.eot
+|   |       fa-solid-900.svg
+|   |       fa-solid-900.ttf
+|   |       fa-solid-900.woff
+|   |       fa-solid-900.woff2
+|   |       
+|   \---js
+|       |   collapse.js
+|       |   main.min.js
+|       |   _main.js
+|       |   
+|       +---plugins
+|       |       jquery.fitvids.js
+|       |       jquery.greedy-navigation.js
+|       |       jquery.magnific-popup.js
+|       |       jquery.smooth-scroll.min.js
+|       |       stickyfill.min.js
+|       |       
+|       \---vendor
+|           \---jquery
+|                   jquery-1.12.4.min.js
+|                   
++---files
+|       paper1.pdf
+|       paper2.pdf
+|       paper3.pdf
+|       
++---images
+|       3953273590_704e3899d5_m.jpg
+|       500x300.png
+|       bio-photo-2.jpg
+|       bio-photo.jpg
+|       browserconfig.xml
+|       editing-talk.png
+|       foo-bar-identity-th.jpg
+|       foo-bar-identity.jpg
+|       image-alignment-1200x4002.jpg
+|       image-alignment-150x150.jpg
+|       image-alignment-300x200.jpg
+|       image-alignment-580x300.jpg
+|       manifest.json
+|       mstile-144x144.png
+|       mstile-150x150.png
+|       mstile-310x150.png
+|       mstile-310x310.png
+|       mstile-70x70.png
+|       paragraph-indent.png
+|       paragraph-no-indent.png
+|       profile.png
+|       safari-pinned-tab.svg
+|       site-logo.png
+|       
++---markdown_generator
+|       publications.ipynb
+|       publications.py
+|       publications.tsv
+|       PubsFromBib.ipynb
+|       pubsFromBib.py
+|       readme.md
+|       talks.ipynb
+|       talks.py
+|       talks.tsv
+|       
++---talkmap
+|   |   map.html
+|   |   org-locations.js
+|   |   
+|   \---leaflet_dist
+|           leaflet.markercluster-src.js
+|           leaflet.markercluster.js
+|           MarkerCluster.css
+|           MarkerCluster.Default.css
+|           screen.css
+|           
++---_data
+|   |   authors.yml
+|   |   navigation.yml
+|   |   ui-text.yml
+|   |   
+|   \---comments
+|       +---layout-comments
+|       |       comment-1470944006665.yml
+|       |       comment-1470944162041.yml
+|       |       
+|       +---markup-syntax-highlighting
+|       |       comment-1470969665387.yml
+|       |       
+|       \---welcome-to-jekyll
+|               comment-1470942205700.yml
+|               comment-1470942247755.yml
+|               comment-1470942265819.yml
+|               comment-1470942493518.yml
+|               
++---_drafts
+|       post-draft.md
+|       
++---_includes
+|   |   analytics.html
+|   |   archive-single-cv.html
+|   |   archive-single-talk-cv.html
+|   |   archive-single-talk.html
+|   |   archive-single.html
+|   |   author-profile.html
+|   |   base_path
+|   |   breadcrumbs.html
+|   |   browser-upgrade.html
+|   |   category-list.html
+|   |   comment.html
+|   |   comments.html
+|   |   feature_row
+|   |   footer.html
+|   |   gallery
+|   |   group-by-array
+|   |   head.html
+|   |   masthead.html
+|   |   nav_list
+|   |   page__hero.html
+|   |   page__taxonomy.html
+|   |   paginator.html
+|   |   post_pagination.html
+|   |   read-time.html
+|   |   scripts.html
+|   |   seo.html
+|   |   sidebar.html
+|   |   social-share.html
+|   |   tag-list.html
+|   |   toc
+|   |   
+|   +---analytics-providers
+|   |       custom.html
+|   |       google-universal.html
+|   |       google.html
+|   |       
+|   +---comments-providers
+|   |       custom.html
+|   |       discourse.html
+|   |       disqus.html
+|   |       facebook.html
+|   |       google-plus.html
+|   |       scripts.html
+|   |       staticman.html
+|   |       
+|   +---footer
+|   |       custom.html
+|   |       
+|   \---head
+|           custom.html
+|           
++---_layouts
+|       archive-taxonomy.html
+|       archive.html
+|       compress.html
+|       default.html
+|       single.html
+|       splash.html
+|       talk.html
+|       
++---_pages
+|       404.md
+|       about.md
+|       archive-layout-with-content.md
+|       category-archive.html
+|       collection-archive.html
+|       cv.md
+|       markdown.md
+|       non-menu-page.md
+|       page-archive.html
+|       portfolio.html
+|       publications.md
+|       sitemap.md
+|       tag-archive.html
+|       talkmap.html
+|       talks.html
+|       teaching.html
+|       terms.md
+|       year-archive.html
+|       
++---_portfolio
+|       portfolio-1.md
+|       portfolio-2.html
+|       
++---_posts
+|       2012-08-14-blog-post-1.md
+|       2013-08-14-blog-post-2.md
+|       2014-08-14-blog-post-3.md
+|       2015-08-14-blog-post-4.md
+|       2199-01-01-future-post.md
+|       
++---_publications
+|       2009-10-01-paper-title-number-1.md
+|       2009-10-01-paper-title-number-2.md
+|       2009-10-01-paper-title-number-4.md
+|       2015-10-01-paper-title-number-3.md
+|       
++---_sass
+|   |   _animations.scss
+|   |   _archive.scss
+|   |   _base.scss
+|   |   _buttons.scss
+|   |   _footer.scss
+|   |   _forms.scss
+|   |   _masthead.scss
+|   |   _mixins.scss
+|   |   _navigation.scss
+|   |   _notices.scss
+|   |   _page.scss
+|   |   _print.scss
+|   |   _reset.scss
+|   |   _sidebar.scss
+|   |   _syntax.scss
+|   |   _tables.scss
+|   |   _utilities.scss
+|   |   _variables.scss
+|   |   
+|   \---vendor
+|       +---breakpoint
+|       |   |   _breakpoint.scss
+|       |   |   _context.scss
+|       |   |   _helpers.scss
+|       |   |   _legacy-settings.scss
+|       |   |   _no-query.scss
+|       |   |   _parsers.scss
+|       |   |   _respond-to.scss
+|       |   |   _settings.scss
+|       |   |   
+|       |   \---parsers
+|       |       |   _double.scss
+|       |       |   _query.scss
+|       |       |   _resolution.scss
+|       |       |   _single.scss
+|       |       |   _triple.scss
+|       |       |   
+|       |       +---double
+|       |       |       _default-pair.scss
+|       |       |       _default.scss
+|       |       |       _double-string.scss
+|       |       |       
+|       |       +---resolution
+|       |       |       _resolution.scss
+|       |       |       
+|       |       +---single
+|       |       |       _default.scss
+|       |       |       
+|       |       \---triple
+|       |               _default.scss
+|       |               
+|       +---font-awesome
+|       |       brands.scss
+|       |       fontawesome.scss
+|       |       regular.scss
+|       |       solid.scss
+|       |       v4-shims.scss
+|       |       _animated.scss
+|       |       _bordered-pulled.scss
+|       |       _core.scss
+|       |       _fixed-width.scss
+|       |       _icons.scss
+|       |       _larger.scss
+|       |       _list.scss
+|       |       _mixins.scss
+|       |       _rotated-flipped.scss
+|       |       _screen-reader.scss
+|       |       _shims.scss
+|       |       _stacked.scss
+|       |       _variables.scss
+|       |       
+|       +---magnific-popup
+|       |       _magnific-popup.scss
+|       |       _settings.scss
+|       |       
+|       \---susy
+|           |   _su.scss
+|           |   _susy.scss
+|           |   _susyone.scss
+|           |   
+|           \---susy
+|               |   _su.scss
+|               |   
+|               +---language
+|               |   |   _susy.scss
+|               |   |   _susyone.scss
+|               |   |   
+|               |   +---susy
+|               |   |       _background.scss
+|               |   |       _bleed.scss
+|               |   |       _box-sizing.scss
+|               |   |       _breakpoint-plugin.scss
+|               |   |       _container.scss
+|               |   |       _context.scss
+|               |   |       _gallery.scss
+|               |   |       _grids.scss
+|               |   |       _gutters.scss
+|               |   |       _isolate.scss
+|               |   |       _margins.scss
+|               |   |       _padding.scss
+|               |   |       _rows.scss
+|               |   |       _settings.scss
+|               |   |       _span.scss
+|               |   |       _validation.scss
+|               |   |       
+|               |   \---susyone
+|               |           _background.scss
+|               |           _functions.scss
+|               |           _grid.scss
+|               |           _isolation.scss
+|               |           _margin.scss
+|               |           _media.scss
+|               |           _padding.scss
+|               |           _settings.scss
+|               |           
+|               +---output
+|               |   |   _float.scss
+|               |   |   _shared.scss
+|               |   |   _support.scss
+|               |   |   
+|               |   +---float
+|               |   |       _container.scss
+|               |   |       _end.scss
+|               |   |       _isolate.scss
+|               |   |       _span.scss
+|               |   |       
+|               |   +---shared
+|               |   |       _background.scss
+|               |   |       _container.scss
+|               |   |       _direction.scss
+|               |   |       _inspect.scss
+|               |   |       _margins.scss
+|               |   |       _output.scss
+|               |   |       _padding.scss
+|               |   |       
+|               |   \---support
+|               |           _background.scss
+|               |           _box-sizing.scss
+|               |           _clearfix.scss
+|               |           _prefix.scss
+|               |           _rem.scss
+|               |           _support.scss
+|               |           
+|               \---su
+|                       _grid.scss
+|                       _settings.scss
+|                       _utilities.scss
+|                       _validation.scss
+|                       
++---_talks
+|       2012-03-01-talk-1.md
+|       2012-03-01-talk-4.md
+|       2012-03-01-talk-5.md
+|       2013-03-01-tutorial-1.md
+|       2014-02-01-talk-2.md
+|       2014-03-01-talk-3.md
+|       
+\---_teaching
+        2014-spring-teaching-1.md
+        2015-spring-teaching-2.md
+        
