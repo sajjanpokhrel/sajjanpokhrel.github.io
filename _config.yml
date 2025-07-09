@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sajjan Pokhrel/Postdoctoral Research Associate"
 title_separator          : "-"
-name                     : &name "Sajjan Pokhrel"
+name                     : &name "Sajjan Pokhrel, PhD"
 description              : &description "personal description"
 url                      : https://sajjanpokhrel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
