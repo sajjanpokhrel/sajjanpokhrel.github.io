@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sajjan Pokhrel/Postdoctoral Research Associate"
+title                    : "Sajjan Pokhrel, PhD/Postdoctoral Research Associate"
 title_separator          : "-"
 name                     : &name "Sajjan Pokhrel, PhD"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sajjan Pokhrel"
+  name             : "Sajjan Pokhrel, PhD"
   avatar           : "profile.png"
   bio              : "Energy Systems || Geothermal Energy || Energy Policy || Numerical Modeling || Computational Fluid Dynamics || Porous Media Simulations"
   location         : "Knoxville, Tennessee"
