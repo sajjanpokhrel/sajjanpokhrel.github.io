@@ -14,7 +14,7 @@ I am Sajjan Pokhrel, a Postdoctoral Research Associate at Oak Ridge National Lab
   <div class="swiper-wrapper">
     <div class="swiper-slide">
       <figure>
-        <img src="images/img1.jpg" alt="Description of image 1">
+        <img src="/images/img1.jpg" alt="Description of image 1">
         <figcaption>Description for image 1</figcaption>
       </figure>
     </div>
