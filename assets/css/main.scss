@@ -39,3 +39,10 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Uniform slider image sizing */
+.swiper-slide img {
+  width: 100%;
+  height: 300px;      /* adjust height as needed */
+  object-fit: cover;  /* crops to fill without distortion */
+}
