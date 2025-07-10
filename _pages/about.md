@@ -14,13 +14,13 @@ I am Sajjan Pokhrel, a Postdoctoral Research Associate at Oak Ridge National Lab
   <div class="swiper-wrapper">
     <div class="swiper-slide">
       <figure>
-        <img src="/assets/images/img1.jpg" alt="Description of image 1">
+        <img src="images/img1.jpg" alt="Description of image 1">
         <figcaption>Description for image 1</figcaption>
       </figure>
     </div>
     <div class="swiper-slide">
       <figure>
-        <img src="/assets/images/img2.jpg" alt="R U Feeling OK? event with ORNL lab leadership and ORPEX-25 board members">
+        <img src="/images/img2.jpg" alt="R U Feeling OK? event with ORNL lab leadership and ORPEX-25 board members">
         <figcaption>Description for image 2</figcaption>
       </figure>
     </div>
