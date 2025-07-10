@@ -40,16 +40,19 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Full‐image, uniform slider sizing */
+/* Uniform slide container */
 .swiper-slide {
+  width: 100%;        /* full width */
+  height: 350px;      /* fixed height for all slides */
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 300px; /* adjust container height */
 }
 
+/* Full image, no cropping */
 .swiper-slide img {
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
 }
+
