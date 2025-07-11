@@ -20,7 +20,7 @@ I am Sajjan Pokhrel, a Postdoctoral Research Associate at Oak Ridge National Lab
     <div class="swiper-slide">
       <figure>
         <img src="/images/img1.jpg" alt="abc">
-        <figcaption>Transdisciplinary cohort at UBC 2023</figcaption>
+        <figcaption>I was a member of Transdisciplinary Cohort for Climate Emergency at UBC (2022-2023)</figcaption>
       </figure>
     </div>
     <div class="swiper-slide">
