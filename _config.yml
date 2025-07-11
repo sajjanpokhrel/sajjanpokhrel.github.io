@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wXNjjusAAAAJ&hl=en"
   email            : "pokhrels@ornl.gov"
-  researchgate     :  "https://www.researchgate.net/profile/Sajjan-Pokhrel"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2852-3749"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "Pokhrel_Sajjan"
