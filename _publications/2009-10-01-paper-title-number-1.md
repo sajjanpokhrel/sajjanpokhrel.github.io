@@ -4,7 +4,7 @@ collection: Peer Reviewed Journal Publications
 permalink: /science/article/abs/pii/S0960148121014956
 excerpt: "This paper presents experimental and computational analyses of a 500 m deep coaxial borehole heat exchanger system for geothermal power generation."
 date: 2021-10-13
-venue: "Renewable Energy, 2021"
+venue: "Renewable Energy"
 ---
 This paper presents experimental and computational analyses of a 500 m deep coaxial borehole heat exchanger system for geothermal power generation.
 

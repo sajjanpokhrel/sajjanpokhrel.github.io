@@ -4,7 +4,7 @@ collection: Peer Reviewed Journal Publications
 permalink: /science/article/pii/S0378778822000639
 excerpt: "Technical, economic and environmental analysis of sewage heat recovery vs. solar borehole thermal energy storage for building heating."
 date: 2021-10-01
-venue: "Energy & Buildings, 2022"
+venue: "Energy & Buildings"
 ---
 
 This paper examines the technical feasibility, economic viability and environmental impact of substituting conventional building heating with sewage heat recovery and solar borehole thermal energy storage systems.
