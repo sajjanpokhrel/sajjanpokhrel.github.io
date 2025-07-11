@@ -1,16 +1,14 @@
 ---
-title: "Thermal performance evaluation of integrated solar-geothermal system; a semi-conjugate reduced order numerical model"
+title: "[Thermal performance evaluation of integrated solar-geothermal system; a semi-conjugate reduced order numerical model](https://www.sciencedirect.com/science/article/abs/pii/S0306261921010369)"
 collection: Peer Reviewed Journal Publications
 permalink: /science/article/abs/pii/S0306261921010369
-excerpt: 
+excerpt: "Development of a reduced-order numerical model for heat and mass transfer in a coaxial borehole heat exchanger system."
 date: 2021-08-27
-venue: 'Applied Energy'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0306261921010369'
-citation: 'Pokhrel, Sajjan, et al. "Thermal performance evaluation of integrated solar-geothermal system; a semi-conjugate reduced order numerical model." Applied Energy 303 (2021): 117676.'
+venue: "Applied Energy, 2021"
 ---
 
-This paper is about the development of reduced order numerical model for solving heat and mass transfer process in coaxial borehole heat exchanger system.
+This paper presents the development of a reduced-order numerical model for solving heat and mass transfer processes in a coaxial borehole heat exchanger system.
 
-[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0306261921010369)
+**Published in Applied Energy, 2021.**
 
-Recommended citation: Pokhrel, Sajjan, Leyla Amiri, Ahmad Zueter, Sébastien Poncet, Ferri P. Hassani, Agus P. Sasmito, and Seyed Ali Ghoreishi-Madiseh. "Thermal performance evaluation of integrated solar-geothermal system; a semi-conjugate reduced order numerical model." Applied Energy 303 (2021): 117676.
+[Read the full paper ↗](https://www.sciencedirect.com/science/article/abs/pii/S0306261921010369)
