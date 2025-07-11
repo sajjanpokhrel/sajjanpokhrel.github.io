@@ -52,4 +52,19 @@
   line-height: 1.5;
 }
 
+/* Portfolio: 2 columns, auto rows */
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+/* Constrain embedded videos */
+.portfolio-item iframe {
+  width: 100%;
+  height: auto;
+  max-height: 200px; /* adjust as needed */
+  display: block;
+}
+
 
