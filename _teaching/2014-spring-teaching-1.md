@@ -9,24 +9,24 @@ author_profile: true
 
 <article class="teaching-entry">
   <h2>Lecturer – Full time (Dec 2013 – Jul 2015)</h2>
-  <p>Purbanchal University, Kantipur City College – College of Engineering, Kathmandu, Nepal</p>
+  <p>Purbanchal University, Kantipur City College – Faculty of Engineering, Kathmandu, Nepal</p>
   <h3>Undergraduate Courses:</h3>
   <ul>
     <li>
-      <strong>Thermodynamics (I) – Fall 2014:</strong> Lecture & laboratory; laws of thermodynamics, thermodynamic cycles, heat transfer.<br>
-      <strong>Class size:</strong> 60
-    </li>
-    <li>
-      <strong>Applied Mechanics – Winter 2013:</strong> Kinetics, kinematics, plane motion, Lagrangian dynamics.<br>
+      <strong>Applied Mechanics (BEG157CI) – Winter 2013:</strong> Kinetics of particles, kinematics of rigid bodies, plane motion, Lagrangian dynamics.<br>
       <strong>Class size:</strong> 45
     </li>
     <li>
-      <strong>Fluid Mechanics – Winter 2015:</strong> Fluid statics and kinematics, fluid flow equations, dimensional analysis.<br>
-      <strong>Class size:</strong> 50
+      <strong>Fundamentals of Thermodynamics (BEG149ME) – Fall 2014:</strong> Lecture & laboratory; energy and energy transfer, properties of common substances, laws of thermodynamics, thermodynamic cycles, heat transfer.<br>
+      <strong>Class size:</strong> 60
     </li>
     <li>
-      <strong>Engineering Drawing – I – Fall 2014:</strong> Technical drawing principles and CAD basics.<br>
+      <strong>Engineering Drawing (BEG146ME) – Fall 2014:</strong> Conventional practices for orthographic and sectional views, pictorial drawings, detail and assembly drawings.<br>
       <strong>Class size:</strong> 40
+    </li>
+    <li>
+      <strong>Fluid Mechanics (BEG261CI) – Winter 2015:</strong> Fluid statics and kinematics, fluid flow equations, dimensional analysis.<br>
+      <strong>Class size:</strong> 50
     </li>
   </ul>
   <p><strong>Responsibilities:</strong> Generated lesson plans, prepared assignments, delivered lectures and tutorials, conducted laboratory sessions, graded and evaluated students’ work.</p>
