@@ -10,7 +10,9 @@ author_profile: true
 <div class="portfolio-grid">
   {% for post in site.portfolio %}
     <div class="portfolio-item">
-      {% include archive-single.html %}
+      <h2 class="portfolio-item-title">{{ post.title }}</h2>
+      <p class="portfolio-item-excerpt">{{ post.excerpt }}</p>
+      {{ post.content }}
     </div>
   {% endfor %}
 </div>
