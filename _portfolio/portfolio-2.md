@@ -1,4 +1,3 @@
-# File: _portfolio/portfolio-2.md
 ---
 layout: single
 permalink: /portfolio/hexahedral-mesh-generation/
