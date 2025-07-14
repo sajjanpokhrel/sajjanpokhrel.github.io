@@ -1,11 +1,27 @@
+# File: _portfolio/portfolio-4.md
 ---
-title: "CFD simulation of a cross flow water turbine"
-excerpt: |
-  <iframe width="400" height="300"
-    src="https://www.youtube.com/embed/-DZJtq2JrtM"
-    frameborder="1"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-collection: portfolio
+layout: single
+permalink: /portfolio/geothermal-drilling/
 ---
+
+# Geothermal drilling
+
+Overview of geothermal drilling operations and rig setup.
+
+<div class="swiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <img src="/images/drill1.jpg" alt="Drilling rig assembly">
+      <figcaption>Rig assembly</figcaption>
+    </div>
+    <div class="swiper-slide">
+      <img src="/images/drill2.jpg" alt="Drill bit insertion">
+      <figcaption>Bit insertion</figcaption>
+    </div>
+    <div class="swiper-slide">
+      <img src="/images/drill3.jpg" alt="Hole logging">
+      <figcaption>Hole logging</figcaption>
+    </div>
+  </div>
+  <div class="swiper-pagination"></div>
+</div>
