@@ -12,7 +12,7 @@ Snapshots from a two-phase CFD simulation of air and water flow in a flotation t
   <div class="swiper-wrapper">
     <div class="swiper-slide">
       <img src="/images/flot1.jpg" alt="Velocity field">
-      <figcaption>Velocity field</figcaption>
+      <figcaption>Radial Velocity Contours</figcaption>
     </div>
     <div class="swiper-slide">
       <img src="/images/flot2.jpg" alt="Pressure distribution">
@@ -20,7 +20,7 @@ Snapshots from a two-phase CFD simulation of air and water flow in a flotation t
     </div>
     <div class="swiper-slide">
       <img src="/images/flot3.jpg" alt="Phase interface">
-      <figcaption>Phase interface</figcaption>
+      <figcaption>Domain mesh</figcaption>
     </div>
   </div>
   <div class="swiper-pagination"></div>
