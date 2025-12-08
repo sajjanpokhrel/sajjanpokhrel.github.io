@@ -113,4 +113,41 @@
   max-width: 100%;
 }
 
+/* Publications page layout with year sidebar */
+.pubs-layout {
+  display: flex;
+  align-items: flex-start;
+}
+
+.pubs-main {
+  flex: 1 1 auto;
+  margin-right: 2rem;
+}
+
+.pubs-sidebar {
+  flex: 0 0 150px;
+  position: sticky;
+  top: 100px;
+}
+
+.pubs-year-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.pubs-year-list li {
+  margin-bottom: 0.5rem;
+}
+
+.pubs-year-list a {
+  display: block;
+  padding: 0.35rem 0.75rem;
+  border-radius: 4px;
+}
+
+.pubs-year-list a:hover {
+  text-decoration: none;
+}
+
 
