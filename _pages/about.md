@@ -15,6 +15,7 @@ I am Sajjan Pokhrel, a Postdoctoral Research Associate at Oak Ridge National Lab
 <p>
 At my current role, I collaborate closely with <a href="https://www.ornl.gov/staff-profile/xiaobing-liu" target="_blank">Xiaobing Liu</a>, <a href="https://profiles.lbl.gov/18855-christine-doughty" target="_blank">Christine Doughty</a>, <a href="https://ceat.okstate.edu/mae/faculty-staff/faculty-bios/jeffrey-spitler.html" target="_blank">Jeff Spittler</a>, and other distinguished scientists at different National Labs, Universities, and Industries on Geothermal research. I spent five years during my PhD with <a href="https://mining.ubc.ca/ali-g-madiseh" target="_blank">Ali Madiseh</a> at the <a href="https://www.ubc.ca/" target="_blank">University of British Columbia</a> in Vancouver before earning a master’s degree in Clean Energy Engineering from <a href="https://www.wright.edu/" target="_blank">Wright State University</a> under the supervision of <a href="https://people.wright.edu/james.menart" target="_blank">Professor James Menart</a>. Prior to that, I completed a bachelor’s degree in Mechanical Engineering at <a href="https://pcampus.edu.np/" target="_blank">Tribhuvan University, Pulchowk Campus</a>, Nepal.
 <p>
+
 </div>
 
 <div class="swiper">
