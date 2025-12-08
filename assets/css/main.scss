@@ -1,7 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+---
+# Only the main Sass file needs front matter.
+---
 
----
----
+@charset "utf-8";
 
 /*
  *    Minimal Mistakes Jekyll Theme
@@ -44,10 +45,10 @@
 
 /* Uniform slider image sizing */
 .swiper-slide img {
-    width: 100%;
-    height: auto;
-    max-width: 100%;
-    object-fit: cover; /* crops to fill without distortion */
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  object-fit: cover; /* crops to fill without distortion */
 }
 
 .small-intro {
@@ -82,7 +83,6 @@
 .teaching-entry ul li {
   margin-bottom: 0.5rem;
 }
-
 
 /* reduce title size */
 .portfolio-item-title {
@@ -151,9 +151,3 @@
 .pubs-year-list a:hover {
   text-decoration: none;
 }
-
-/* Global font family only */
-body {
-  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-}
-
