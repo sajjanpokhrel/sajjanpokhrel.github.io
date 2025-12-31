@@ -180,6 +180,11 @@ body {
 /* Do NOT crop GIFs inside portfolio */
 .portfolio-media img[src$=".gif"] {
     object-fit: contain !important;
-    background: #000;
+    background: #fff;
 }
 
+/* Hide Swiper navigation arrows in portfolio */
+.portfolio-media .swiper-button-prev,
+.portfolio-media .swiper-button-next {
+    display: none !important;
+}
