@@ -1,5 +1,5 @@
 ---
-title: "Abandoned underground mine shaft thermal energy extraction using closed-loop technology (visualization of natural convection)"
+title: "Closed-loop technology in mine shaft (visualization of natural convection)"
 collection: portfolio
 media: |
   <img
