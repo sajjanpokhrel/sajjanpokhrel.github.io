@@ -7,5 +7,5 @@ media: |
     alt="Natural convection visualization in abandoned mine shaft"
     loading="lazy"
     decoding="async"
-    style="width:100%; height:100%; object-fit:cover; display:block;">
+    style="width:100%; height:100%; display:block;">
 ---
