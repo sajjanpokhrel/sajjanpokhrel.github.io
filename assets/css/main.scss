@@ -188,3 +188,14 @@ body {
 .portfolio-media .swiper-button-next {
     display: none !important;
 }
+
+/* Normalize Publications typography to match body text */
+.page__content .archive__item-title {
+    font-size: 1.05rem;
+}
+
+.page__content .archive__item-excerpt,
+.page__content .archive__item p {
+    font-size: 0.95rem;
+    line-height: 1.45;
+}
