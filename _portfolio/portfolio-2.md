@@ -2,7 +2,6 @@
 layout: single
 title: "Hexahedral mesh generation in complex geometrical domains"
 collection: portfolio
-description: "Generation of hexahedral meshes in complex 3D domains using three different mesh-generation algorithms."
 media: |
   <div class="swiper portfolio-swiper">
     <div class="swiper-wrapper">
@@ -15,5 +14,3 @@ media: |
     <div class="swiper-button-next"></div>
   </div>
 ---
-
-Generation of hexahedral meshes in complex 3D domains using three different mesh-generation algorithms.
