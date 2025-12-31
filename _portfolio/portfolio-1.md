@@ -1,7 +1,6 @@
 ---
 title: "CFD simulation of a cross flow water turbine"
 collection: portfolio
-description: "CFD setup, transient results, and performance metrics."
 media: |
   <iframe
     src="https://www.youtube-nocookie.com/embed/-DZJtq2JrtM?rel=0"
