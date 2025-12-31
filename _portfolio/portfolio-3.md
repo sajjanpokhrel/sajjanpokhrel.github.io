@@ -1,5 +1,5 @@
 ---
-title: "Two-phase simulation of flotation tank"
+title: "Two-phase CFD simulation of a mechanical flotation tank"
 collection: portfolio
 media: |
   <div class="swiper portfolio-swiper">
