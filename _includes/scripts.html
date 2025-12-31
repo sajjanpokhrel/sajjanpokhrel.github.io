@@ -1,14 +1,22 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
-<script src="https://unpkg.com/swiper@9/swiper-bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script>
-  new Swiper('.swiper', {
-    loop: true,
-    autoplay: { delay: 3000 },
-    pagination: { el: '.swiper-pagination', clickable: true }
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".swiper.portfolio-swiper").forEach(function (el) {
+    new Swiper(el, {
+      loop: true,
+      autoplay: { delay: 3000, disableOnInteraction: false },
+      speed: 600,
+      pagination: { el: el.querySelector(".swiper-pagination"), clickable: true },
+      navigation: {
+        nextEl: el.querySelector(".swiper-button-next"),
+        prevEl: el.querySelector(".swiper-button-prev")
+      }
+    });
   });
+});
 </script>
-
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
