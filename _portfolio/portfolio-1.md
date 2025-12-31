@@ -1,7 +1,6 @@
 ---
 title: "CFD simulation of a cross flow water turbine"
 collection: portfolio
-excerpt: "CFD setup, transient results, and performance metrics."
 header:
   teaser: /images/portfolio/crossflow-teaser.jpg
 ---
