@@ -2,9 +2,9 @@
 # Only the main Sass file needs front matter.
 ---
 
-@charset "utf-8";
+@charset "utf-8"
+;
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
-
 
 /*
  *    Minimal Mistakes Jekyll Theme
@@ -45,128 +45,77 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Uniform slider image sizing */
-.swiper-slide img {
-  width: 100%;
-  height: auto;
-  max-width: 100%;
-  object-fit: cover; /* crops to fill without distortion */
+/* Global font family override only */
+body {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
 }
 
+/* Force consistent paragraph sizing on About intro */
 .small-intro {
-  font-size: 0.8rem;
-  line-height: 1.35;
+    font-size: 0.8rem;
+    line-height: 1.35;
 }
 
-/* Portfolio: 2 columns, auto rows */
-.portfolio-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
+.small-intro p {
+    font-size: 0.8rem;
+    line-height: 1.35;
+    margin-bottom: 0.75rem;
 }
 
-/* Constrain embedded videos */
-.portfolio-item iframe {
-  width: 100%;
-  height: auto;
-  max-height: 200px; /* adjust as needed */
-  display: block;
-}
-
+/* Teaching page small formatting */
 .teaching-entry {
-  font-size: 0.9rem;
-  line-height: 1.3;
-  margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+    line-height: 1.3;
+    margin-bottom: 1.5rem;
 }
+
 .teaching-entry h2 {
-  margin-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
 }
+
 .teaching-entry p,
 .teaching-entry ul li {
-  margin-bottom: 0.5rem;
-}
-
-/* reduce title size */
-.portfolio-item-title {
-  font-size: 1.10rem;
-  margin-bottom: 0.5rem;
-}
-
-/* tighten excerpt */
-.portfolio-item-excerpt {
-  margin-bottom: 1rem;
-}
-
-/* ensure slideshows fit */
-.portfolio-item .swiper {
-  width: 100%;
-  max-height: 200px; /* adjust as needed */
-}
-
-/* FIX: force each item into its column and prevent overflow */
-.portfolio-item {
-  width: 100%;
-  box-sizing: border-box;
-}
-
-.portfolio-item img,
-.portfolio-item iframe,
-.portfolio-item .swiper {
-  width: 100%;
-  height: auto;
-  max-width: 100%;
+    margin-bottom: 0.5rem;
 }
 
 /* Publications page layout with year sidebar */
 .pubs-layout {
-  display: flex;
-  align-items: flex-start;
+    display: flex;
+    align-items: flex-start;
 }
 
 .pubs-main {
-  flex: 1 1 auto;
-  margin-right: 2rem;
+    flex: 1 1 auto;
+    margin-right: 2rem;
 }
 
 .pubs-sidebar {
-  flex: 0 0 150px;
-  position: sticky;
-  top: 100px;
+    flex: 0 0 150px;
+    position: sticky;
+    top: 100px;
 }
 
 .pubs-year-list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 .pubs-year-list li {
-  margin-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .pubs-year-list a {
-  display: block;
-  padding: 0.35rem 0.75rem;
-  border-radius: 4px;
+    display: block;
+    padding: 0.35rem 0.75rem;
+    border-radius: 4px;
 }
 
 .pubs-year-list a:hover {
-  text-decoration: none;
+    text-decoration: none;
 }
 
-/* Global font family override only */
-body {
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
-}
-
-/* Force consistent paragraph sizing on About intro */
-.small-intro p {
-  font-size: 0.8rem;
-  line-height: 1.35;
-  margin-bottom: 0.75rem;
-}
-
-/* Portfolio 2-column grid, equal tiles */
+/* Portfolio page: 2-column grid, equal media tiles */
 .portfolio-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -177,28 +126,45 @@ body {
     border: 1px solid #ddd;
     padding: 1rem;
     border-radius: 6px;
-}
-
-.portfolio-link {
-    text-decoration: none;
+    box-sizing: border-box;
 }
 
 .portfolio-item-title {
-    margin: 0.75rem 0 0.25rem 0;
+    margin: 0 0 0.75rem 0;
     font-size: 1.2rem;
 }
 
-.portfolio-item-excerpt {
-    margin: 0;
-    min-height: 3.2em;
+/* One fixed media box size for videos and slideshows */
+.portfolio-media {
+    width: 100%;
+    height: 260px;
+    overflow: hidden;
+    border-radius: 4px;
 }
 
-.portfolio-teaser {
+/* Video fills the media box */
+.portfolio-media iframe {
     width: 100%;
-    height: 220px;
+    height: 100%;
+    display: block;
+}
+
+/* Swiper fills the media box */
+.portfolio-media .swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.portfolio-media .swiper-slide img {
+    width: 100%;
+    height: 100%;
     object-fit: cover;
     display: block;
-    border-radius: 4px;
+}
+
+.portfolio-item-excerpt {
+    margin: 0.75rem 0 0 0;
+    min-height: 3.2em;
 }
 
 @media (max-width: 900px) {
@@ -206,7 +172,7 @@ body {
         grid-template-columns: 1fr;
     }
 
-    .portfolio-teaser {
-        height: 200px;
+    .portfolio-media {
+        height: 220px;
     }
 }
