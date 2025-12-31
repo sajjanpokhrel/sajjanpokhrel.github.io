@@ -1,27 +1,18 @@
-# File: _portfolio/portfolio-3.md
 ---
-layout: single
-permalink: /portfolio/two-phase-cfd-flotation-tank/
----
-
-# Two-phase air–water CFD simulation of a flotation tank
-
-Snapshots from a two-phase CFD simulation of air and water flow in a flotation tank.
-
-<div class="swiper">
-  <div class="swiper-wrapper">
-    <div class="swiper-slide">
-      <img src="/images/flot1.jpg" alt="Velocity field">
-      <figcaption>Radial Velocity Contours</figcaption>
+title: "Two-phase simulation of flotation tank"
+collection: portfolio
+media: |
+  <div class="swiper portfolio-swiper">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img src="/images/portfolio/folt1.jpg" alt="Flow snapshot 1">
+      </div>
+      <div class="swiper-slide">
+        <img src="/images/portfolio/folt2.jpg" alt="Flow snapshot 2">
+      </div>
     </div>
-    <div class="swiper-slide">
-      <img src="/images/flot2.jpg" alt="Pressure distribution">
-      <figcaption>Pressure distribution</figcaption>
-    </div>
-    <div class="swiper-slide">
-      <img src="/images/flot3.jpg" alt="Phase interface">
-      <figcaption>Domain mesh</figcaption>
-    </div>
+    <div class="swiper-pagination"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
   </div>
-  <div class="swiper-pagination"></div>
-</div>
+---
