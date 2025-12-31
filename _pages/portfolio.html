@@ -3,16 +3,25 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
+classes: wide
 ---
 
 {% include base_path %}
 
 <div class="portfolio-grid">
-  {% for post in site.portfolio %}
+  {% assign items = site.portfolio | sort: "date" | reverse %}
+  {% for post in items %}
     <div class="portfolio-item">
-      <h2 class="portfolio-item-title">{{ post.title }}</h2>
-      <p class="portfolio-item-excerpt">{{ post.excerpt }}</p>
-      {{ post.content }}
+      <a class="portfolio-link" href="{{ post.url | relative_url }}">
+        {% if post.header.teaser %}
+          <img class="portfolio-teaser" src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}">
+        {% endif %}
+        <h2 class="portfolio-item-title">{{ post.title }}</h2>
+      </a>
+
+      {% if post.excerpt %}
+        <p class="portfolio-item-excerpt">{{ post.excerpt | strip_html }}</p>
+      {% endif %}
     </div>
   {% endfor %}
 </div>

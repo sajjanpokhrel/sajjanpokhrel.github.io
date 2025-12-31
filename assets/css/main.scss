@@ -166,3 +166,47 @@ body {
   margin-bottom: 0.75rem;
 }
 
+/* Portfolio 2-column grid, equal tiles */
+.portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem;
+}
+
+.portfolio-item {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 6px;
+}
+
+.portfolio-link {
+    text-decoration: none;
+}
+
+.portfolio-item-title {
+    margin: 0.75rem 0 0.25rem 0;
+    font-size: 1.2rem;
+}
+
+.portfolio-item-excerpt {
+    margin: 0;
+    min-height: 3.2em;
+}
+
+.portfolio-teaser {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+    border-radius: 4px;
+}
+
+@media (max-width: 900px) {
+    .portfolio-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .portfolio-teaser {
+        height: 200px;
+    }
+}

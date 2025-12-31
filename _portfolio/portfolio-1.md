@@ -1,11 +1,14 @@
 ---
 title: "CFD simulation of a cross flow water turbine"
-excerpt: |
-  <iframe width="400" height="300"
-    src="https://www.youtube.com/embed/-DZJtq2JrtM"
-    frameborder="1"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
 collection: portfolio
+excerpt: "CFD setup, transient results, and performance metrics."
+header:
+  teaser: /images/portfolio/crossflow-teaser.jpg
 ---
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/-DZJtq2JrtM"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
