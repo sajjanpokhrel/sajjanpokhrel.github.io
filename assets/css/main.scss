@@ -176,3 +176,9 @@ body {
         height: 220px;
     }
 }
+
+/* Do NOT crop GIFs inside portfolio */
+.portfolio-media img[src$=".gif"] {
+    object-fit: contain;
+    background: #000; /* optional: avoids white bars */
+}
