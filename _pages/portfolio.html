@@ -12,15 +12,16 @@ classes: wide
   {% assign items = site.portfolio | sort: "date" | reverse %}
   {% for post in items %}
     <div class="portfolio-item">
-      <a class="portfolio-link" href="{{ post.url | relative_url }}">
-        {% if post.header.teaser %}
-          <img class="portfolio-teaser" src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}">
-        {% endif %}
-        <h2 class="portfolio-item-title">{{ post.title }}</h2>
-      </a>
+      <h2 class="portfolio-item-title">{{ post.title }}</h2>
 
-      {% if post.excerpt %}
-        <p class="portfolio-item-excerpt">{{ post.excerpt | strip_html }}</p>
+      {% if post.media %}
+        <div class="portfolio-media">
+          {{ post.media }}
+        </div>
+      {% endif %}
+
+      {% if post.description %}
+        <p class="portfolio-item-excerpt">{{ post.description }}</p>
       {% endif %}
     </div>
   {% endfor %}
