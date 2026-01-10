@@ -21,7 +21,7 @@ At my current role, I collaborate closely with <a href="https://www.ornl.gov/sta
 
 </div>
 
-<div class="swiper">
+<div class="swiper portfolio-swiper">
   <div class="swiper-wrapper">
 
     <div class="swiper-slide">
