@@ -34,14 +34,14 @@ At my current role, I collaborate closely with <a href="https://www.ornl.gov/sta
     <div class="swiper-slide">
       <figure>
         <img src="/images/img2.jpg" alt="img2">
-        <figcaption>"R U Feeling OK?" event with ORNL lab leadership and ORPEX-25 board (2025, Tennessee)</figcaption>
+        <figcaption>With ORNL lab leadership and ORPEX-25 board (2025, Tennessee)</figcaption>
       </figure>
     </div>
 
     <div class="swiper-slide">
       <figure>
         <img src="/images/img3.jpg" alt="img3">
-        <figcaption>Transdisciplinary Cohort for Climate Emergency (2022, UBC Vancouver)</figcaption>
+        <figcaption>Transdisciplinary cohort (2022-2023, UBC Vancouver)</figcaption>
       </figure>
     </div>
 
@@ -63,13 +63,6 @@ At my current role, I collaborate closely with <a href="https://www.ornl.gov/sta
       <figure>
         <img src="/images/img6.jpg" alt="img6">
         <figcaption>Store4Build Consortium at ORNL (2024, Tennessee)</figcaption>
-      </figure>
-    </div>
-
-    <div class="swiper-slide">
-      <figure>
-        <img src="/images/img7.jpg" alt="img7">
-        <figcaption>My moon and two stars (2025, Tennessee) </figcaption>
       </figure>
     </div>
 
