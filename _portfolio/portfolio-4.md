@@ -1,5 +1,5 @@
 ---
-title: "Closed-loop technology in mine shaft (visualization of natural convection)"
+title: "closed loop geothermal technology in mine shaft (natural convection visualization)"
 collection: portfolio
 media: |
   <img
